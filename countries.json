@@ -142,7 +142,7 @@
           "StateName": "Qunduz"
         },
         { "Cities": ["Aybak", "Kholm"], "StateName": "Samangan" },
-        { "Cities": [], "StateName": "Sar-e Pul" },
+        { "Cities": ["Sar-e Pul"], "StateName": "Sar-e Pul" },
         {
           "Cities": [
             "Chah Ab",
@@ -194,7 +194,7 @@
         { "Cities": ["Librazhd", "Perrenjas"], "StateName": "Librazhd" },
         { "Cities": ["Lushnje", "Rrogozhine"], "StateName": "Lushnje" },
         { "Cities": ["Ballsh"], "StateName": "Mallakaster" },
-        { "Cities": [], "StateName": "Malsi e Madhe" },
+        { "Cities": ["Malsi e Madhe"], "StateName": "Malsi e Madhe" },
         { "Cities": ["Burrel", "Klos", "Kraste", "Ulze"], "StateName": "Mat" },
         { "Cities": ["Kurbnesh", "Rreshen", "Rubik"], "StateName": "Mirdite" },
         { "Cities": ["Peqin"], "StateName": "Peqin" },
@@ -219,8 +219,8 @@
     },
     {
       "States": [
-        { "Cities": [], "StateName": "'Ayn Daflah" },
-        { "Cities": [], "StateName": "'Ayn Tamushanat" },
+        { "Cities": ["'Ayn Daflah"], "StateName": "'Ayn Daflah" },
+        { "Cities": ["'Ayn Tamushanat"], "StateName": "'Ayn Tamushanat" },
         {
           "Cities": ["Adrar", "Awlaf", "Rijan", "Timimun"],
           "StateName": "Adrar"
@@ -352,7 +352,7 @@
           ],
           "StateName": "Bumardas"
         },
-        { "Cities": [], "StateName": "Burj Bu Arririj" },
+        { "Cities": ["Burj Bu Arririj"], "StateName": "Burj Bu Arririj" },
         {
           "Cities": [
             "Ammi Mussa",
@@ -529,8 +529,8 @@
           "StateName": "Satif"
         },
         { "Cities": ["'Ayn-al-Hajar", "Sayda'"], "StateName": "Sayda'" },
-        { "Cities": [], "StateName": "Sidi ban-al-'Abbas" },
-        { "Cities": [], "StateName": "Suq Ahras" },
+        { "Cities": ["Sidi ban-al-'Abbas"], "StateName": "Sidi ban-al-'Abbas" },
+        { "Cities": ["Suq Ahras"], "StateName": "Suq Ahras" },
         {
           "Cities": ["'Ayn Qazzan", "'Ayn Salah", "Tamanghasat"],
           "StateName": "Tamanghasat"
@@ -605,7 +605,7 @@
           ],
           "StateName": "Tiyarat"
         },
-        { "Cities": [], "StateName": "Tizi Wazu" },
+        { "Cities": ["Tizi Wazu"], "StateName": "Tizi Wazu" },
         {
           "Cities": [
             "'Ayn Bayda",
@@ -652,9 +652,9 @@
           ],
           "StateName": "Warqla"
         },
-        { "Cities": [], "StateName": "Wilaya d Alger" },
-        { "Cities": [], "StateName": "Wilaya de Bejaia" },
-        { "Cities": [], "StateName": "Wilaya de Constantine" },
+        { "Cities": ["Wilaya d Alger"], "StateName": "Wilaya d Alger" },
+        { "Cities": ["Wilaya de Bejaia"], "StateName": "Wilaya de Bejaia" },
+        { "Cities": ["Wilaya de Constantine"], "StateName": "Wilaya de Constantine" },
         {
           "Cities": ["Aflu", "Hassi al-Raml", "al-Aghwat"],
           "StateName": "al-Aghwat"
@@ -749,7 +749,7 @@
           "StateName": "Eastern"
         },
         { "Cities": ["Ofu"], "StateName": "Manu'a" },
-        { "Cities": [], "StateName": "Swains Island" },
+        { "Cities": ["Swains Island"], "StateName": "Swains Island" },
         {
           "Cities": [
             "Aoloau",
@@ -775,13 +775,13 @@
     },
     {
       "States": [
-        { "Cities": [], "StateName": "Andorra la Vella" },
+        { "Cities": ["Andorra la Vella"], "StateName": "Andorra la Vella" },
         { "Cities": ["Canillo"], "StateName": "Canillo" },
         { "Cities": ["Encamp"], "StateName": "Encamp" },
-        { "Cities": [], "StateName": "La Massana" },
-        { "Cities": [], "StateName": "Les Escaldes" },
+        { "Cities": ["La Massana"], "StateName": "La Massana" },
+        { "Cities": ["Les Escaldes"], "StateName": "Les Escaldes" },
         { "Cities": ["Ordino"], "StateName": "Ordino" },
-        { "Cities": [], "StateName": "Sant Julia de Loria" }
+        { "Cities": ["Sant Julia de Loria"], "StateName": "Sant Julia de Loria" }
       ],
       "CountryName": "Andorra"
     },
@@ -804,11 +804,11 @@
           "StateName": "Huila"
         },
         { "Cities": ["Menongue"], "StateName": "Kuando-Kubango" },
-        { "Cities": [], "StateName": "Kwanza Norte" },
-        { "Cities": [], "StateName": "Kwanza Sul" },
+        { "Cities": ["Kwanza Norte"], "StateName": "Kwanza Norte" },
+        { "Cities": ["Kwanza Sul"], "StateName": "Kwanza Sul" },
         { "Cities": ["Luanda"], "StateName": "Luanda" },
-        { "Cities": [], "StateName": "Lunda Norte" },
-        { "Cities": [], "StateName": "Lunda Sul" },
+        { "Cities": ["Lunda Norte"], "StateName": "Lunda Norte" },
+        { "Cities": ["Lunda Sul"], "StateName": "Lunda Sul" },
         { "Cities": ["Malanje"], "StateName": "Malanje" },
         {
           "Cities": ["Cazaje", "Leua", "Luau", "Luena", "Lumeje"],
@@ -821,36 +821,36 @@
       "CountryName": "Angola"
     },
     {
-      "States": [{ "Cities": [], "StateName": "Other Provinces" }],
+      "States": [{ "Cities": ["Other Provinces"], "StateName": "Other Provinces" }],
       "CountryName": "Anguilla"
     },
     {
       "States": [
-        { "Cities": [], "StateName": "Sector claimed by Argentina/Ch" },
-        { "Cities": [], "StateName": "Sector claimed by Argentina/UK" },
-        { "Cities": [], "StateName": "Sector claimed by Australia" },
-        { "Cities": [], "StateName": "Sector claimed by France" },
-        { "Cities": [], "StateName": "Sector claimed by New Zealand" },
-        { "Cities": [], "StateName": "Sector claimed by Norway" },
-        { "Cities": [], "StateName": "Unclaimed Sector" }
+        { "Cities": ["Sector claimed by Argentina/Ch"], "StateName": "Sector claimed by Argentina/Ch" },
+        { "Cities": ["Sector claimed by Argentina/UK" ], "StateName": "Sector claimed by Argentina/UK" },
+        { "Cities": ["Sector claimed by Australia"], "StateName": "Sector claimed by Australia" },
+        { "Cities": ["Sector claimed by France"], "StateName": "Sector claimed by France" },
+        { "Cities": ["Sector claimed by New Zealand"], "StateName": "Sector claimed by New Zealand" },
+        { "Cities": ["Sector claimed by Norway"], "StateName": "Sector claimed by Norway" },
+        { "Cities": ["Unclaimed Sector"], "StateName": "Unclaimed Sector" }
       ],
       "CountryName": "Antarctica"
     },
     {
       "States": [
         { "Cities": ["Codrington"], "StateName": "Barbuda" },
-        { "Cities": [], "StateName": "Saint George" },
-        { "Cities": [], "StateName": "Saint John" },
-        { "Cities": [], "StateName": "Saint Mary" },
-        { "Cities": [], "StateName": "Saint Paul" },
-        { "Cities": [], "StateName": "Saint Peter" },
-        { "Cities": [], "StateName": "Saint Philip" }
+        { "Cities": ["Saint George"], "StateName": "Saint George" },
+        { "Cities": ["Saint John"], "StateName": "Saint John" },
+        { "Cities": ["Saint Mary"], "StateName": "Saint Mary" },
+        { "Cities": ["Saint Paul"], "StateName": "Saint Paul" },
+        { "Cities": ["Saint Peter"], "StateName": "Saint Peter" },
+        { "Cities": ["Saint Philip" ], "StateName": "Saint Philip" }
       ],
       "CountryName": "Antigua And Barbuda"
     },
     {
       "States": [
-        { "Cities": [], "StateName": "Buenos Aires" },
+        { "Cities": ["Buenos Aires"], "StateName": "Buenos Aires" },
         { "Cities": ["Catamarca"], "StateName": "Catamarca" },
         {
           "Cities": ["Presidencia Roque Saenz Pena", "Resistencia"],
@@ -877,15 +877,15 @@
           "Cities": ["Corrientes", "Goya", "Mercedes", "San Lorenzo"],
           "StateName": "Corrientes"
         },
-        { "Cities": [], "StateName": "Distrito Federal" },
-        { "Cities": [], "StateName": "Entre Rios" },
+        { "Cities": ["Distrito Federal"], "StateName": "Distrito Federal" },
+        { "Cities": ["Entre Rios"], "StateName": "Entre Rios" },
         { "Cities": ["Formosa"], "StateName": "Formosa" },
         {
           "Cities": ["Jujuy", "Libertador General San Martin", "San Pedro"],
           "StateName": "Jujuy"
         },
-        { "Cities": [], "StateName": "La Pampa" },
-        { "Cities": [], "StateName": "La Rioja" },
+        { "Cities": ["La Pampa"], "StateName": "La Pampa" },
+        { "Cities": ["La Rioja"], "StateName": "La Rioja" },
         {
           "Cities": [
             "Godoy Cruz",
@@ -899,17 +899,17 @@
         },
         { "Cities": ["Eldorado", "Obera", "Posadas"], "StateName": "Misiones" },
         { "Cities": ["Cutral Co", "Neuquen"], "StateName": "Neuquen" },
-        { "Cities": [], "StateName": "Rio Negro" },
+        { "Cities": ["Rio Negro"], "StateName": "Rio Negro" },
         {
           "Cities": ["Salta", "San Ramon de la Nueva Oran", "Tartagal"],
           "StateName": "Salta"
         },
-        { "Cities": [], "StateName": "San Juan" },
-        { "Cities": [], "StateName": "San Luis" },
-        { "Cities": [], "StateName": "Santa Cruz" },
-        { "Cities": [], "StateName": "Santa Fe" },
-        { "Cities": [], "StateName": "Santiago del Estero" },
-        { "Cities": [], "StateName": "Tierra del Fuego" },
+        { "Cities": ["San Juan"], "StateName": "San Juan" },
+        { "Cities": ["San Luis"], "StateName": "San Luis" },
+        { "Cities": ["Santa Cruz"], "StateName": "Santa Cruz" },
+        { "Cities": ["Santa Fe"], "StateName": "Santa Fe" },
+        { "Cities": ["Santiago del Estero"], "StateName": "Santiago del Estero" },
+        { "Cities": ["Tierra del Fuego"], "StateName": "Tierra del Fuego" },
         { "Cities": ["Tucuman"], "StateName": "Tucuman" }
       ],
       "CountryName": "Argentina"
@@ -967,28 +967,28 @@
           "Cities": ["Glenfield", "Henderson", "Milford"],
           "StateName": "Auckland"
         },
-        { "Cities": [], "StateName": "Australian Capital Territory" },
+        { "Cities": ["Australian Capital Territory"], "StateName": "Australian Capital Territory" },
         { "Cities": ["Balgowlah"], "StateName": "Balgowlah" },
         { "Cities": ["Balmain"], "StateName": "Balmain" },
         { "Cities": ["Bankstown"], "StateName": "Bankstown" },
-        { "Cities": [], "StateName": "Baulkham Hills" },
-        { "Cities": [], "StateName": "Bonnet Bay" },
+        { "Cities": ["Baulkham Hills"], "StateName": "Baulkham Hills" },
+        { "Cities": ["Bonnet Bay"], "StateName": "Bonnet Bay" },
         { "Cities": ["Camberwell"], "StateName": "Camberwell" },
-        { "Cities": [], "StateName": "Carole Park" },
-        { "Cities": [], "StateName": "Castle Hill" },
+        { "Cities": [ "Carole Park"], "StateName": "Carole Park" },
+        { "Cities": ["Castle Hill"], "StateName": "Castle Hill" },
         { "Cities": ["Caulfield"], "StateName": "Caulfield" },
         { "Cities": ["Chatswood"], "StateName": "Chatswood" },
         { "Cities": ["Cheltenham"], "StateName": "Cheltenham" },
         { "Cities": ["Cherrybrook"], "StateName": "Cherrybrook" },
         { "Cities": ["Clayton"], "StateName": "Clayton" },
         { "Cities": ["Collingwood"], "StateName": "Collingwood" },
-        { "Cities": [], "StateName": "Frenchs Forest" },
+        { "Cities": ["Frenchs Forest"], "StateName": "Frenchs Forest" },
         { "Cities": ["Hawthorn"], "StateName": "Hawthorn" },
         { "Cities": ["Jannnali"], "StateName": "Jannnali" },
         { "Cities": ["Knoxfield"], "StateName": "Knoxfield" },
         { "Cities": ["Melbourne", "South Oakleigh"], "StateName": "Melbourne" },
-        { "Cities": [], "StateName": "New South Wales" },
-        { "Cities": [], "StateName": "Northern Territory" },
+        { "Cities": ["New South Wales"], "StateName": "New South Wales" },
+        { "Cities": ["Northern Territory"], "StateName": "Northern Territory" },
         {
           "Cities": [
             "Cottesole",
@@ -1110,7 +1110,7 @@
           ],
           "StateName": "Queensland"
         },
-        { "Cities": [], "StateName": "South Australia" },
+        { "Cities": ["South Australia"], "StateName": "South Australia" },
         {
           "Cities": [
             "Bridgewater-Gagebrook",
@@ -1269,17 +1269,17 @@
           ],
           "StateName": "Victoria"
         },
-        { "Cities": [], "StateName": "Werribee south" },
-        { "Cities": [], "StateName": "Western Australia" },
+        { "Cities": ["Werribee south"], "StateName": "Werribee south" },
+        { "Cities": ["Western Australia"], "StateName": "Western Australia" },
         { "Cities": ["Wheeler"], "StateName": "Wheeler" }
       ],
       "CountryName": "Australia"
     },
     {
       "States": [
-        { "Cities": [], "StateName": "Bundesland Salzburg" },
-        { "Cities": [], "StateName": "Bundesland Steiermark" },
-        { "Cities": [], "StateName": "Bundesland Tirol" },
+        { "Cities": [ "Bundesland Salzburg"], "StateName": "Bundesland Salzburg" },
+        { "Cities": ["Bundesland Steiermark"], "StateName": "Bundesland Steiermark" },
+        { "Cities": ["Bundesland Tirol"], "StateName": "Bundesland Tirol" },
         {
           "Cities": [
             "Eisenstadt",
@@ -1328,8 +1328,8 @@
           ],
           "StateName": "Karnten"
         },
-        { "Cities": [], "StateName": "Liezen" },
-        { "Cities": [], "StateName": "Lower Austria" },
+        { "Cities": [ "Liezen"], "StateName": "Liezen" },
+        { "Cities": ["Lower Austria"], "StateName": "Lower Austria" },
         {
           "Cities": [
             "Amstetten",
@@ -1616,7 +1616,7 @@
           ],
           "StateName": "Tirol"
         },
-        { "Cities": [], "StateName": "Upper Austria" },
+        { "Cities": ["Upper Austria"], "StateName": "Upper Austria" },
         {
           "Cities": [
             "Altach",
@@ -1680,7 +1680,7 @@
           ],
           "StateName": "Abseron"
         },
-        { "Cities": [], "StateName": "Baki Sahari" },
+        { "Cities": ["Baki Sahari"], "StateName": "Baki Sahari" },
         { "Cities": ["Daskasan", "Ganca", "Xanlar"], "StateName": "Ganca" },
         { "Cities": ["Ganja"], "StateName": "Ganja" },
         {
@@ -1772,22 +1772,22 @@
     {
       "States": [
         { "Cities": ["Coopers Town", "Marsh Harbour"], "StateName": "Abaco" },
-        { "Cities": [], "StateName": "Acklins Island" },
+        { "Cities": ["Acklins Island"], "StateName": "Acklins Island" },
         { "Cities": ["Andros Town", "Nicholls Town"], "StateName": "Andros" },
-        { "Cities": [], "StateName": "Berry Islands" },
+        { "Cities": ["Berry Islands"], "StateName": "Berry Islands" },
         { "Cities": ["Alice Town"], "StateName": "Biminis" },
-        { "Cities": [], "StateName": "Cat Island" },
-        { "Cities": [], "StateName": "Crooked Island" },
+        { "Cities": ["Cat Island"], "StateName": "Cat Island" },
+        { "Cities": ["Crooked Island"], "StateName": "Crooked Island" },
         { "Cities": ["Freetown", "Rock Sound"], "StateName": "Eleuthera" },
-        { "Cities": [], "StateName": "Exuma and Cays" },
-        { "Cities": [], "StateName": "Grand Bahama" },
-        { "Cities": [], "StateName": "Inagua Islands" },
-        { "Cities": [], "StateName": "Long Island" },
+        { "Cities": ["Exuma and Cays"], "StateName": "Exuma and Cays" },
+        { "Cities": ["Grand Bahama"], "StateName": "Grand Bahama" },
+        { "Cities": ["Inagua Islands"], "StateName": "Inagua Islands" },
+        { "Cities": ["Long Island"], "StateName": "Long Island" },
         { "Cities": ["Pirates Well"], "StateName": "Mayaguana" },
-        { "Cities": [], "StateName": "New Providence" },
-        { "Cities": [], "StateName": "Ragged Island" },
-        { "Cities": [], "StateName": "Rum Cay" },
-        { "Cities": [], "StateName": "San Salvador" }
+        { "Cities": ["New Providence"], "StateName": "New Providence" },
+        { "Cities": ["Ragged Island"], "StateName": "Ragged Island" },
+        { "Cities": ["Rum Cay" ], "StateName": "Rum Cay" },
+        { "Cities": ["San Salvador"], "StateName": "San Salvador" }
       ],
       "CountryName": "Bahamas The"
     },
@@ -1796,7 +1796,7 @@
         { "Cities": ["'Isa"], "StateName": "'Isa" },
         { "Cities": ["Badiyah"], "StateName": "Badiyah" },
         { "Cities": ["Hidd"], "StateName": "Hidd" },
-        { "Cities": [], "StateName": "Jidd Hafs" },
+        { "Cities": ["Jidd Hafs"], "StateName": "Jidd Hafs" },
         { "Cities": ["Mahama"], "StateName": "Mahama" },
         { "Cities": ["Manama"], "StateName": "Manama" },
         { "Cities": ["Sitrah"], "StateName": "Sitrah" },
@@ -1808,7 +1808,7 @@
     },
     {
       "States": [
-        { "Cities": [], "StateName": "Bagar Hat" },
+        { "Cities": ["Bagar Hat"], "StateName": "Bagar Hat" },
         { "Cities": ["Bandarban"], "StateName": "Bandarban" },
         { "Cities": ["Barguna"], "StateName": "Barguna" },
         {
@@ -1820,7 +1820,7 @@
           "StateName": "Bhola"
         },
         { "Cities": ["Adamighi", "Bogora", "Sherpur"], "StateName": "Bogora" },
-        { "Cities": [], "StateName": "Brahman Bariya" },
+        { "Cities": ["Brahman Bariya"], "StateName": "Brahman Bariya" },
         { "Cities": ["Chandpur", "Hajiganj"], "StateName": "Chandpur" },
         {
           "Cities": [
@@ -1836,7 +1836,7 @@
           ],
           "StateName": "Chattagam"
         },
-        { "Cities": [], "StateName": "Chittagong Division" },
+        { "Cities": ["Chittagong Division"], "StateName": "Chittagong Division" },
         {
           "Cities": ["Alamdanga", "Chuadanga", "Damurhuda"],
           "StateName": "Chuadanga"
@@ -1855,7 +1855,7 @@
         { "Cities": ["Gazipur", "Tungi"], "StateName": "Gazipur" },
         { "Cities": ["Gopalganj", "Tungi Para"], "StateName": "Gopalganj" },
         { "Cities": ["Baniachang", "Habiganj"], "StateName": "Habiganj" },
-        { "Cities": [], "StateName": "Jaipur Hat" },
+        { "Cities": ["Jaipur Hat"], "StateName": "Jaipur Hat" },
         { "Cities": ["Jamalpur", "Sarishabari"], "StateName": "Jamalpur" },
         {
           "Cities": ["Abhaynagar", "Jessor", "Jhikargachha", "Keshabpur"],
@@ -1875,7 +1875,7 @@
           "Cities": ["Bajitpur", "Bhairab Bazar", "Itna", "Kishorganj"],
           "StateName": "Kishorganj"
         },
-        { "Cities": [], "StateName": "Koks Bazar" },
+        { "Cities": [ "Koks Bazar" ], "StateName": "Koks Bazar" },
         { "Cities": ["Komilla", "Laksham"], "StateName": "Komilla" },
         {
           "Cities": ["Chilmari", "Kurigram", "Nageshwari", "Ulipur"],
@@ -1886,7 +1886,7 @@
           "Cities": ["Lakshmipur", "Ramganj", "Ramgati", "Raypur"],
           "StateName": "Lakshmipur"
         },
-        { "Cities": [], "StateName": "Lalmanir Hat" },
+        { "Cities": [ "Lalmanir Hat"], "StateName": "Lalmanir Hat" },
         { "Cities": ["Madaripur"], "StateName": "Madaripur" },
         { "Cities": ["Magura"], "StateName": "Magura" },
         {
@@ -1902,7 +1902,7 @@
           "StateName": "Maimansingh"
         },
         { "Cities": ["Manikganj"], "StateName": "Manikganj" },
-        { "Cities": [], "StateName": "Maulvi Bazar" },
+        { "Cities": [ "Maulvi Bazar"], "StateName": "Maulvi Bazar" },
         { "Cities": ["Meherpur"], "StateName": "Meherpur" },
         { "Cities": ["Munshiganj"], "StateName": "Munshiganj" },
         { "Cities": ["Kalia", "Naral"], "StateName": "Naral" },
@@ -1956,17 +1956,17 @@
     },
     {
       "States": [
-        { "Cities": [], "StateName": "Christ Church" },
-        { "Cities": [], "StateName": "Saint Andrew" },
-        { "Cities": [], "StateName": "Saint George" },
-        { "Cities": [], "StateName": "Saint James" },
-        { "Cities": [], "StateName": "Saint John" },
-        { "Cities": [], "StateName": "Saint Joseph" },
-        { "Cities": [], "StateName": "Saint Lucy" },
-        { "Cities": [], "StateName": "Saint Michael" },
-        { "Cities": [], "StateName": "Saint Peter" },
-        { "Cities": [], "StateName": "Saint Philip" },
-        { "Cities": [], "StateName": "Saint Thomas" }
+        { "Cities": ["Christ Church"], "StateName": "Christ Church" },
+        { "Cities": ["Saint Andrew"], "StateName": "Saint Andrew" },
+        { "Cities": ["Saint George"], "StateName": "Saint George" },
+        { "Cities": ["Saint James"], "StateName": "Saint James" },
+        { "Cities": ["Saint John"], "StateName": "Saint John" },
+        { "Cities": ["Saint Joseph"], "StateName": "Saint Joseph" },
+        { "Cities": ["Saint Lucy"], "StateName": "Saint Lucy" },
+        { "Cities": ["Saint Michael"], "StateName": "Saint Michael" },
+        { "Cities": ["Saint Peter"], "StateName": "Saint Peter" },
+        { "Cities": ["Saint Philip"], "StateName": "Saint Philip" },
+        { "Cities": ["Saint Thomas"], "StateName": "Saint Thomas" }
       ],
       "CountryName": "Barbados"
     },
@@ -2055,9 +2055,9 @@
           ],
           "StateName": "Mahiljow"
         },
-        { "Cities": [], "StateName": "Mahilyowskaya Voblasts" },
+        { "Cities": ["Mahilyowskaya Voblasts"], "StateName": "Mahilyowskaya Voblasts" },
         { "Cities": ["Minsk"], "StateName": "Minsk" },
-        { "Cities": [], "StateName": "Minskaja Voblasts'" },
+        { "Cities": ["Minskaja Voblasts'"], "StateName": "Minskaja Voblasts'" },
         { "Cities": ["Petrikov"], "StateName": "Petrik" },
         {
           "Cities": [
@@ -2192,7 +2192,7 @@
           "StateName": "Brabant Wallon"
         },
         { "Cities": ["Brussel"], "StateName": "Brussel" },
-        { "Cities": [], "StateName": "East Flanders" },
+        { "Cities": ["East Flanders"], "StateName": "East Flanders" },
         {
           "Cities": [
             "Aiseau-Presles",
@@ -2584,7 +2584,7 @@
           ],
           "StateName": "Oost-Vlaanderen"
         },
-        { "Cities": [], "StateName": "Provincie Brabant" },
+        { "Cities": [ "Provincie Brabant" ], "StateName": "Provincie Brabant" },
         {
           "Cities": [
             "Aarschot",
@@ -2742,8 +2742,8 @@
           "StateName": "Cayo"
         },
         { "Cities": ["Corozal"], "StateName": "Corozal" },
-        { "Cities": [], "StateName": "Orange Walk" },
-        { "Cities": [], "StateName": "Stann Creek" },
+        { "Cities": ["Orange Walk"], "StateName": "Orange Walk" },
+        { "Cities": [ "Stann Creek"], "StateName": "Stann Creek" },
         { "Cities": ["Punta Gorda"], "StateName": "Toledo" }
       ],
       "CountryName": "Belize"
